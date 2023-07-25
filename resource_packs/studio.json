@@ -1,0 +1,42 @@
+{
+  "Source": "import",
+  "CreateVersion": "2.5.0.248352",
+  "EditVersion": "2.5.0.248352",
+  "OldEditCount": 0,
+  "NewEditCount": 64,
+  "OldComponents": [],
+  "Account": "",
+  "UserName": "",
+  "UserId": "",
+  "Id": "379ac89eb6864d449cc574db9d6ade3f",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "我的积木世界",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": "",
+  "SaveBackAddOnPath": "",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "",
+  "ServerName": "",
+  "StudioPort": 10900,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "",
+  "ElkUrl": "",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "",
+  "EditorResourcePackPath": ""
+}
